@@ -57,6 +57,8 @@ public class Main {
         duration = endTime - startTime;
         System.out.println("Duration "+duration/1000000000.0 + " seconds");
         System.out.println("Timer total "+timer);
+        
+        System.out.println("lets see if this branch stuff wnats to work today or if it wants me to cry");
     }
 
 }
